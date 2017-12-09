@@ -52,7 +52,7 @@
             function accountMessage(account)
             {
                 var stats = formatData(account);
-                return stats.name + ' Stats (Season 6) -> SR: ' + stats.sr + ' | Win Rate: ' + stats.winRate + '% | Hours: ' + stats.hours + ' | Level: ' + stats.level;
+                return stats.name + ' Stats (since last placements) -> SR: ' + stats.sr + ' | Win Rate: ' + stats.winRate + '% | Hours: ' + stats.hours + ' | Level: ' + stats.level;
             }
 
 
@@ -101,7 +101,7 @@
                     "heals": getAverage("totalHeals", total("gamesPlayed")),
                     "res": getAverage("totalRes", total("gamesPlayed"))
                 };
-                return 'Average Stats (Season 6) -> SR: ' + average.sr + ' | Win Rate: ' + average.winRate + '% | Healing Done: ' + average.heals + ' | Resurrections: ' + average.res;
+                return 'Average Stats (current season) -> SR: ' + average.sr + ' | Win Rate: ' + average.winRate + '% | Healing Done: ' + average.heals + ' | Resurrections: ' + average.res;
             }
 
             // find Vale's best stats from categories across accounts
@@ -124,7 +124,7 @@
                     "heals": findBest("bestHeals"),
                     "res": findBest("mostRes")
                 };
-                return 'Highest ATM (Season 6) -> SR: ' + bests.sr + ' | Level: ' + bests.level + ' | Win Rate: ' + bests.winRate + '% | Healing done: ' + bests.heals + ' | Resurrections: ' + bests.res;
+                return 'Highest ATM (current season) -> SR: ' + bests.sr + ' | Level: ' + bests.level + ' | Win Rate: ' + bests.winRate + '% | Healing done: ' + bests.heals + ' | Resurrections: ' + bests.res;
             }
 
             // Vale's overall (combined) comp stats for S6
@@ -139,7 +139,7 @@
                     "damage": total("damage"),
                     "res": total("totalRes")
                 };
-                return 'Overall Stats (Season 6) -> Wins: ' + totals.wins + ' | Hours: ' + totals.hours + ' | Healing Done: ' + totals.heals + ' | Damage Boosted: ' + totals.damage + ' | Resurrections: ' + totals.res + ' | Medals - Gold Medals: ' + totals.goldMedals + ' / Total Medals: ' + totals.totalMedals;
+                return 'Overall Stats (current season) -> Wins: ' + totals.wins + ' | Hours: ' + totals.hours + ' | Healing Done: ' + totals.heals + ' | Damage Boosted: ' + totals.damage + ' | Resurrections: ' + totals.res + ' | Medals - Gold Medals: ' + totals.goldMedals + ' / Total Medals: ' + totals.totalMedals;
             }
 
             if (req == "average") $.say(average());
@@ -149,12 +149,12 @@
             else if (req == "orphanix" || req == "ǿrphanix") $.say(accountMessage('%C7%BErphanix-1961'));
             else if (req == "passive") $.say(accountMessage('Passive-21485'));
             else if (req == "vale") $.say(accountMessage('Vale-1195'));
-            else $.say('To get info on Vale\'s current stats, put overall, average, or an account name after !stats (Ex. !stats average or !stats orphanix)');
+            else $.say('To get info on Vale\'s current stats, put overall, average, best, or an account name after !stats (Ex. !stats average or !stats orphanix)');
             return;
         }
         else
         {
-            $.say('To get info on Vale\'s current stats, put overall, average, or an account name after !stats (Ex. !stats average or !stats orphanix)');
+            $.say('To get info on Vale\'s current stats, put overall, best, average, or an account name after !stats (Ex. !stats average or !stats orphanix)');
         }
     });
 
