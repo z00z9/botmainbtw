@@ -1,5 +1,4 @@
-(function()
-{
+(function() {
     $.bind('command', function(event) {
         var sender = event.getSender();
         var command = event.getCommand();
@@ -7,26 +6,26 @@
         if (command.equalsIgnoreCase('batfact')) {;
             var facts = [
                 'Insect eating bats are worth an estimated $23 billion to the US economy as natural pest control.',
-                'The bumblebee bat is the world\'s smallest mammal.',
-                'While you\'ve seen bats wiggle their ears, you may have also noticed their noses wiggle as well. Doing this directs their echolocation!',
-                'There is a species of bat (you\'re welcome https://goo.gl/7UvLUF) called the Honduran White Bat, who like to snuggle together in groups inside of leaf tents when they sleep! valeHug ',
+                'The bumblebee bat is the world’s smallest mammal.',
+                'While you’ve seen bats wiggle their ears, you may have also noticed their noses wiggle as well. Doing this directs their echolocation!',
+                'There is a species of bat (you’re welcome https://goo.gl/7UvLUF) called the Honduran White Bat, who like to snuggle together in groups inside of leaf tents when they sleep! valeHug ',
                 'There are over 1,300 species of bats! Only 3 of which are vampire bats, who yes, actually do have a blood-based diet.',
-                'Vampire bats have an enzyme called “draculin” that is an anticoagulant. This makes feeding easier! Additionally, it\'s being used by researchers to possibly treat strokes and heart attacks in humans.',
+                'Vampire bats have an enzyme called “draculin” that is an anticoagulant. This makes feeding easier! Additionally, it’s being used by researchers to possibly treat strokes and heart attacks in humans.',
                 'Vampire bats have heat seeking noses that they use to find the warmest spots on their prey, where the blood would be closest to the surface.',
-                'There\'s a “bat god” called Camazotz in Mayan mythology. It demanded ritual blood sacrifices.',
+                'There’s a “bat god” called Camazotz in Mayan mythology. It demanded ritual blood sacrifices.',
                 'A species of bat called the Heart-Nosed Bat sings to claim its territory.',
                 'Fruit bats have a higher alcohol tolerance than humans - probably to help with eating fermented fruit!',
                 'Although flying foxes are typically called “fruit bats”, their favorite food is actually flowers!',
-                'The Small Flying Fox Bat is found to use its wings as an umbrella when it\'s raining AND as a fan when it\'s too hot!',
+                'The Small Flying Fox Bat is found to use its wings as an umbrella when it’s raining AND as a fan when it’s too hot!',
                 'April 17th is Bat Appreciation Day!',
                 'When researchers “translated” bat talk, they found that bats argue. A lot. Usually about food or sleeping arrangements.',
-                'Livingstone\'s Fruit Bats are the only bat with round ears.',
-                'Vampire bats share food with each other by regurgitating so their friends and family don\'t starve. Gross AND wholesome!',
-                'Young bats aren\'t able to fly until they are about 90% grown.',
+                'Livingstone’s Fruit Bats are the only bat with round ears.',
+                'Vampire bats share food with each other by regurgitating so their friends and family don’t starve. Gross AND wholesome!',
+                'Young bats aren’t able to fly until they are about 90% grown.',
                 'Bats can swim. Yes, there are videos.',
                 'Bats actually are not blind! Jebaited',
                 'Flying foxes are extremely clean bats, and spend a lot of time grooming themselves.',
-                'Fruit bats don\'t eat the entire fruit, they squeeze out the juices and good stuff and spit out what is called a “spat”. If they ate the whole thing, they\'d be too fat to fly LUL .',
+                'Fruit bats don’t eat the entire fruit, they squeeze out the juices and good stuff and spit out what is called a “spat”. If they ate the whole thing, they’d be too fat to fly LUL .',
                 'Bats do not have an appendix.',
                 'Bats are especially susceptible to extinction due to their long gestation periods and how they typically only have one pup at a time.',
                 'Bat nipples are located in their armpits.',
@@ -52,7 +51,7 @@
                 'A group of bats is called a colony! Not as cool as a murder of crows...but that’s fine.',
                 'Typically, the larger bat species eat fruits, and the smaller species eat insects or have a blood diet.',
                 'Guano was used during the Civil War as gunpowder.',
-                'Australian bats are not poisonous, but they don\'t eat Tim Tams either valeTaxic ',
+                'Australian bats are not poisonous, but they don’t eat Tim Tams either valeTaxic ',
                 'There is a park next to the Sydney Opera House that is home to many giant Flying Foxes that fly freely and live together with really weird looking birds. Australia is weird.',
                 'Evidence found of the earliest bat-like mammal dates back 50 million years ago.',
                 'Vampire bats often return to and remember the same exact prey that they fed on during a previous night.',
