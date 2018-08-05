@@ -122,6 +122,19 @@
                 'Male Sack Wing Bats concoct a “perfume” in their wing sacks to attract mates. It’s not made out of sunshine and flowers; you don’t want to know what they make it with…',
                 'Panama Canal alone has ~72 separate bat species that live there. That’s impressive for a human-made island.',
                 'The reason bats don’t get dizzy when they hang upside down for so long like humans do, is simply because they just don’t weigh that much for gravity to affect their blood flow. Blood doesn’t rush to their heads, and they can sleep and roost comfortably.'
+                'As we know, herbivore means “plant based diet”, carnivore means “meat based diet”. Sanguivore is a “fresh blood based diet” and Frugivore is a “fruit based diet”!',
+                'Vampire bats are highly sensitive to the cold since they have no fat reservoirs from their blood based diet.',
+                'Some bats mark their territory in the same way your household cat will - by rubbing their faces on the territory they claim as their own!',
+                'Tears in wings are not rare for bats. Luckily, wing membranes are very likely to regenerate themselves and heal up just fine!',
+                'Common tent-making bats will chew leaf tents in a way that will cause it to fold into shape. Think perforated paper from a notebook!',
+                'The oldest lived bat ever found was a 41 year old Brandt’s bat from Russia.',
+                'Since bats live abnormally long lifespans for their size, researchers are studying if their genes are particularly resistant to damage. Super bats?',
+                '530 species of flowering plants rely on bats as their major or EXCLUSIVE pollinator.',
+                'Bats do not have hollow bones like birds.',
+                'Some bats, like the Greater Sac-winged Bat roost in the open and rely on camouflage to be protected, unlike the cave-dwelling bats that we already know.',
+                'Many plants have adapted strategies to attract pollinators and seed dispersers, like bees or squirrels and such.  Some plants have adapted specifically to bats!',
+                'Bats have pollinated bananas for over 50 million years.',
+                '18 million years ago, bats “stole” a gene called VP35 from an ancestor of the Ebola virus. But bats don’t spread Ebola -- the bat form of the gene works differently! Researchers think the VP35 gene may help regulate bats’ immune system.',
             ];
 
             $.inidb.incr('commandCount', event.getCommand(), 1);
