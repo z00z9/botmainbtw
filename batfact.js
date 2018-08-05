@@ -121,7 +121,7 @@
                 'Some bats have special greetings when they return to the roost (like a special handshake!).  The more important a bat is in the hierarchy, the more elaborate the greeting.',
                 'Male Sack Wing Bats concoct a “perfume” in their wing sacks to attract mates. It’s not made out of sunshine and flowers; you don’t want to know what they make it with…',
                 'Panama Canal alone has ~72 separate bat species that live there. That’s impressive for a human-made island.',
-                'The reason bats don’t get dizzy when they hang upside down for so long like humans do, is simply because they just don’t weigh that much for gravity to affect their blood flow. Blood doesn’t rush to their heads, and they can sleep and roost comfortably.'
+                'The reason bats don’t get dizzy when they hang upside down for so long like humans do, is simply because they just don’t weigh that much for gravity to affect their blood flow. Blood doesn’t rush to their heads, and they can sleep and roost comfortably.',
                 'As we know, herbivore means “plant based diet”, carnivore means “meat based diet”. Sanguivore is a “fresh blood based diet” and Frugivore is a “fruit based diet”!',
                 'Vampire bats are highly sensitive to the cold since they have no fat reservoirs from their blood based diet.',
                 'Some bats mark their territory in the same way your household cat will - by rubbing their faces on the territory they claim as their own!',
