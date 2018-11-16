@@ -88,7 +88,7 @@
                 'Bats are incredibly agile fliers and are able to turn directions sharply or move at extremely high speeds. The reason they are so agile is because they can move their wings asymmetrically, while birds can only move their wings symmetrically. Bats also have incredible flexibility and elasticity in their bones - more than any other mammal. This is what sets bat flight apart from bird flight.',
                 'Bats belong to the order “Chiroptera” which translates to “hand wing.”',
                 'Early human flight ideas/inventions (which DaVinci famously studied) were inspired by the complexity of bat flight.',
-                'Bats have different “supersonic signatures” that sets them apart from each other.  This means they have difference “voices” just like humans. Mothers can tell their babies apart from thousands of other bat babies because of their unique voices!',
+                'Bats have different “supersonic signatures” that sets them apart from each other.  This means they have different “voices” just like humans. Mothers can tell their babies apart from thousands of other bat babies because of their unique voices!',
                 'Male Dyak’s Fruit Bats are one of the only known natural occurrences of *male* lactation and are able to help feed their young along with the female bats.',
                 'Bats do in fact, have belly buttons, just like humans.',
                 'Baby bats can weigh up to 1/3rd of its mother\'s body weight. Imagine a human baby being that heavy. That’s a very giant baby.',
