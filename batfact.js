@@ -30,7 +30,7 @@
                 'Bats are especially susceptible to extinction due to their long gestation periods and how they typically only have one pup at a time.',
                 'Bat nipples are located in their armpits.',
                 'Bats are the only mammal capable of powered, continuous flight, and fly with more accuracy than most birds.',
-                '20-25% of all mammal species are bats.',
+                '20-25% of all mammal species are bats. They are the second-largest order of mammals, next to rodents.',
                 'Relative to body size, the Spotted Bat has the largest ears out of all species of bat.',
                 'The vampire bat is the only species of bat that can run.',
                 'Bat echolocation is actually really loud, but to humans it seems quiet because of the high frequency. It can go as loud as 120 dB!',
@@ -169,6 +169,7 @@
                 'Some species of bats are able to see ultraviolet light, which is invisible to humans.',
                 'Desert bats, like the California Leaf-Nosed Bat, can live without water for at least six weeks!',
                 'Lesser Long-Nosed Bats follow what is called the “nectar trail”, a blooming of cacti and agave plants between New Mexico and Southern Arizona. They drink the nectar of these plants, and pollinate each one along the way!',
+                'Some bats help each other out, like vampire bats sharing food with weaker bats, so that when they need help later on, they can count on their friends! This is called reciprocal altruism. Like when you pocket a Genji and then he always peels for you! ... Right?'
             ];
 
             $.inidb.incr('commandCount', event.getCommand(), 1);
