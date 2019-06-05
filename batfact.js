@@ -8,7 +8,7 @@
                 'Insect eating bats are worth an estimated $23 billion to the US economy as natural pest control.',
                 'The bumblebee bat is the world’s smallest mammal, weighing in at 2 grams and are around 1.1 to 1.3 inches in length!',
                 'While you’ve seen bats wiggle their ears, you may have also noticed their noses wiggle as well. Doing this directs their echolocation!',
-                'There is a species of bat (you’re welcome https://goo.gl/7UvLUF) called the Honduran White Bat, who like to snuggle together in groups inside of leaf tents when they sleep! valeHug ',
+                'There is a species of bat (you’re welcome https://goo.gl/7UvLUF ) called the Honduran White Bat, who like to snuggle together in groups inside of leaf tents when they sleep! valeHug ',
                 'There are over 1,300 species of bats! Only 3 of which are vampire bats, who yes, actually do have a blood-based diet.',
                 'Vampire bats have an enzyme called “draculin” that is an anticoagulant. This makes feeding easier! Additionally, it’s being used by researchers to possibly treat strokes and heart attacks in humans.',
                 'Vampire bats have heat seeking noses that they use to find the warmest spots on their prey, where the blood would be closest to the surface.',
